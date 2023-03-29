@@ -8,4 +8,4 @@ Secondly, the UI is certainly lacking. I didn't have any experience in building 
 
 And lastly I didn't implement Castling and En passant. The reason for that is that these mehanics necessitate storing previous states of the game and for only God knows why I thought that I needed a seperate database to store them. I never even considered storing all the moves in a variable, which I'm kind of ashamed of. So I went to learn databases and ultimately never came back to the project. 
 
-If you want to see my progress you can check out my first version of the chess. As far as I remember it was purely functional, not a single class. Here's the link: https://github.com/KissMyUSSR/Python-chess-v1
+If you want to see my progress you can check out my first version of the chess. As far as I remember it was purely functional, not a single class. Here's the link: https://github.com/Kirill-Cherepanov/Python-chess-v1
